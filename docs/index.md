@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Hi, I'm Fiona"
+  text: "A software engineer, recent computer science graduate"
+  tagline: Based in Toronto, Canada
   actions:
     - theme: brand
       text: Markdown Examples
