@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "Hi, I'm Fiona"
-  text: "A software engineer, recent computer science graduate"
-  tagline: Based in Toronto, Canada
+  text: "A software engineer"
+  tagline: Toronto, Canada
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: About me
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Resume
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Fun fact \#1
+    details: I can type 122 words/min
+  - title: Fun fact \#2 
+    details: I like geocaching!
+  - title: Fun fact \#3
+    details: I love cats, I fostered many in the past
 ---
 
