@@ -13,16 +13,17 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Quick Nav',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'About me', link: '/about-me' },
+          { text: 'Resume', link: '/resume' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/fiona-la' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/~fiona/' },
     ]
   }
 })

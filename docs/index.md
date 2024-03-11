@@ -3,19 +3,18 @@
 layout: home
 
 hero:
-  name: "Hi, I'm Fiona 👋"
+  name: "Hi, I'm Fiona"
   text: "Software Developer"
   tagline: Toronto, Canada
-   image:
-    src: /profile.jpg
-    alt: VitePress
+  image:
+    src: profile.jpg
   actions:
     - theme: brand
       text: About me
-      link: /markdown-examples
+      link: /about-me
     - theme: alt
       text: Resume
-      link: /api-examples
+      link: /resume
 
 features:
   - title: Fun fact 1
